@@ -1,3 +1,4 @@
+# 자료구조 - 배열과 리스트
 a = int(input());
 b = list(input());
 # print(a);

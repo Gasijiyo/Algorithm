@@ -1,3 +1,4 @@
+# 자료구조 - 배열과 리스트
 a = int(input());
 # b = list(int(input().split(" ")));
 b = list(map(int, input().split(" ")));

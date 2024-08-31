@@ -1,3 +1,4 @@
+# 자료구조 - 구간 합
 import sys
 input = sys.stdin.readline;
 
